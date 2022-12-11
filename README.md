@@ -1,2 +1,2 @@
 # c-assignments
-c++ all simple project and assignments
+c++ all simple programs and assignments
